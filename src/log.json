@@ -1,0 +1,8 @@
+{ "datetime": "2020-05-05 10:45:13", "N": "3", "Cats": ["Abyssinian Cat", "American Shorthair", "Burmese"], "countAll": 106, "countN": 3 }
+{ "datetime": "2020-05-05 10:45:29", "N": "1", "Cats": ["Burmilla", "Ragamuffin", "Scottish Fold"], "countAll": 107, "countN": 1 }
+{ "datetime": "2020-05-05 11:47:24", "N": "1", "Cats": ["Exotic shorthair", "Sokoke", "Somali"], "countAll": 108, "countN": 1 }
+{ "datetime": "2020-05-05 13:19:22", "N": "1", "Cats": ["Bombay", "British Shorthair", "Cymric"], "countAll": 109, "countN": 1 }
+{ "datetime": "2020-05-05 13:19:27", "N": "11", "Cats": ["Cornish Rex", "Exotic shorthair", "Toyger"], "countAll": 110, "countN": 11 }
+{ "datetime": "2020-05-05 13:22:34", "N": "1", "Cats": ["American Curl", "Maine Coon", "Nebelung"], "countAll": 111, "countN": 1 }
+{ "datetime": "2020-05-05 13:22:35", "N": "2", "Cats": ["Californian Rex", "Oriental", "Sokoke"], "countAll": 112, "countN": 2 }
+{ "datetime": "2020-05-05 13:39:11", "N": "1", "Cats": ["Californian Rex", "Safari", "Sphynx"], "countAll": 113, "countN": 1 }
