@@ -24,7 +24,7 @@ class LogWriter
 
         $query = mysqli_query($this->con, "SELECT * FROM views WHERE N = '$this->uri'");
         $viewsN = mysqli_fetch_array($query);
-        $this->countN = $viewsN['N'];
+        $this->countN = $viewsN['countN'];
     }
 
     public function writeLogFile()
